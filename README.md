@@ -6,12 +6,12 @@ Ketika kita bertugas untuk mengembangkan model yang mampu mengenali gambar, hal 
 ### Keterangan :
 * Dataset yang dipakai adalah bersumber dari : https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pengembangan_academy/Chessman-image-dataset.zip
 * Dataset pada latihan ini dibagi menjadi train set dan validation set
-Ukuran validation set 40% dari total dataset (data training memiliki 499 sampel, dan data validasi sebanyak 52 sampel)
-Proyek ini mengimplementasikan augmentasi gambar.
-Menggunakan image data generator.
-Menggunakan model sequential.
-Program dikerjakan pada Google Colaboratory.
-Menggunakan bahasa pemrograman Python.
+* Ukuran validation set 40% dari total dataset (data training memiliki 499 sampel, dan data validasi sebanyak 52 sampel)
+* Proyek ini mengimplementasikan augmentasi gambar.
+* Menggunakan image data generator.
+* Menggunakan model sequential.
+* Program dikerjakan pada Google Colaboratory.
+* Menggunakan bahasa pemrograman Python.
 
 ### Step :
 * Unduh Dataset
@@ -24,4 +24,4 @@ Menggunakan bahasa pemrograman Python.
 * Transfer Learning
 
 
-Follow me on Medium https://howdysysinfo.medium.com/
+**Follow me on Medium https://howdysysinfo.medium.com/
